@@ -1,5 +1,7 @@
 # Gesture Controlled Robot
 ![Maintenance](https://img.shields.io/badge/Maintenance-Inactive-orange?style=for-the-badge)
+![Archived](https://img.shields.io/badge/Status-Archived-red?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/rbijo/GestureControlledRobot?style=for-the-badge)
 ## Tech Stack
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
